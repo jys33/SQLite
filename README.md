@@ -1,4 +1,4 @@
-# SQLite
+# SQLite https://www.sqlite.org/foreignkeys.html
 EL caso es que en la eliminación en ON DELETE CASCADE
 PROBLEMAS POR NO SETEAR PRAGMA foreign_keys = ON
 
